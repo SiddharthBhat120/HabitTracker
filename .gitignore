@@ -1,0 +1,14 @@
+@"
+*.hprof
+*.apk
+*.aab
+*.jks
+*.keystore
+local.properties
+build/
+.gradle/
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+"@ | Add-Content .gitignore
