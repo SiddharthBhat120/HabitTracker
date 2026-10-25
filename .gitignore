@@ -1,14 +1,20 @@
-@"
-*.hprof
+# Gradle / Android Studio
+*.iml
+.gradle/
+.idea/
+/local.properties
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+
+# Build output and signing files (never commit these)
 *.apk
 *.aab
 *.jks
 *.keystore
-local.properties
-build/
-.gradle/
-.idea/
-captures/
-.externalNativeBuild/
-.cxx/
-"@ | Add-Content .gitignore
+
+# Java heap dumps (can be hundreds of MB)
+*.hprof
