@@ -35,7 +35,7 @@ Built as an MCA mini project for *Mobile Application Development using Android* 
 
 1. Install **Android Studio** and clone this repo:
    ```bash
-   git clone https://github.com/SiddharthBhat120/HabitTracker.git
+   git clone https://github.com/sidxcodes/HabitTracker.git
    ```
 2. In Android Studio choose **File → Open** and select the project folder. Wait for the Gradle sync to finish.
 3. Start an emulator or connect a phone (Android 9 / API 28 or newer) and press **Run**.
@@ -65,5 +65,5 @@ app/src/main/java/com/digitalsanctuary/habittracker/
 
 ## Authors
 
-- **Siddharth Bhat**: [GitHub @SiddharthBhat120](https://github.com/SiddharthBhat120)
+- **Siddharth Bhat**: [GitHub @sidxcodes](https://github.com/sidxcodes)
 - **Megha Raykar**
