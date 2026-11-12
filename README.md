@@ -1,5 +1,7 @@
 # Habit Tracker: Digital Sanctuary
 
+[![build](https://github.com/sidxcodes/HabitTracker/actions/workflows/ci.yml/badge.svg)](https://github.com/sidxcodes/HabitTracker/actions/workflows/ci.yml)
+
 An Android habit-tracking app built with **Kotlin** and **Jetpack Compose**. Create daily habits, tick them off, watch your streaks grow, and keep a short journal with moods, all in a calm soft-blue design with dark mode.
 
 Built as an MCA mini project for *Mobile Application Development using Android* at AIMIT, St Aloysius (Deemed to be University), Mangaluru, by **Siddharth Bhat** and **Megha Raykar**.
